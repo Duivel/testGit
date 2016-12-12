@@ -11,3 +11,7 @@ fix issue53
 
 
 fix a hotfix which is found on 09/12
+
+fix for issue53 - 12/12/2016
+
+fix for issue 53.1
