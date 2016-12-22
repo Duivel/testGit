@@ -18,3 +18,4 @@ fix for issue 53.1
 
 fis for new issue 53.2
 
+fix for issue 12
